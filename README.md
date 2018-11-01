@@ -8,7 +8,7 @@ $ git submodule init
 $ git submodule update
 ```
 
-# Main_MiSTer Docker Development Setup and Compile
+## Main_MiSTer Docker Development Setup and Compile
 
 From the Main_MiSTer folder, Issue this command to pull down a working linaro toolchain docker image, and cross compile the code:
 ```
